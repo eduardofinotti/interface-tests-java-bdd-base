@@ -18,7 +18,7 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
 public class ParkingCalculatorSteps {
-
+ 
 	private static WebDriver browser;
 	
 	@Before("@start")
