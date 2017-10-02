@@ -8,6 +8,7 @@ import cucumber.api.junit.Cucumber;
 @RunWith(Cucumber.class)
 @CucumberOptions(plugin = {"pretty", "html:target/test-report",
 								"json:target/test-report.json"},
+
 					monochrome = true,
 					tags = "@enabled")	
 public class CukesRunner {
