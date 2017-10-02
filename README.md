@@ -4,12 +4,12 @@ Projeto para prova do processo seletivo da Newoway
 
 ## Getting Started
 
-- Baixar o projeto do repositótio;
+- Baixar o projeto do repositório GIT;
 
 ### Installing
 
 - No Eclipse importar o projeto como: Existing Maven Projet;
-- Copiar o driver do chrome do projeto,e  colcoar em um diretótio local;
+- Copiar o driver do chrome do projeto,e  colcoar em um repositório local;
 - No arquivo "RegistrarUsuarioStep.java" alterar o caminho do Driver (Linha 26)
 
 ## Running the tests
