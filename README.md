@@ -16,6 +16,10 @@ Projeto para prova do processo seletivo da Newoway
 
 - Executar o arquivo "registrar_usuario.feature"
 
+## Result
+
+- O resultado deve ser como a imagem: [RESULTADO] (https://github.com/eduardofinotti/interface-tests-java-bdd-base/blob/master/result.png)
+
 ## Authors
 
 * **Eduardo Finotti** - [GitHub](https://github.com/eduardofinotti)
