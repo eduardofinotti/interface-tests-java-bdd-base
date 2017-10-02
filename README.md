@@ -18,7 +18,7 @@ Projeto para prova do processo seletivo da Newoway
 
 ## Result
 
-- O resultado deve ser como a imagem: [RESULTADO] (https://github.com/eduardofinotti/interface-tests-java-bdd-base/blob/master/result.png)
+- O resultado deve ser como a imagem: [RESULTADO](https://github.com/eduardofinotti/interface-tests-java-bdd-base/blob/master/result.png)
 
 ## Authors
 
