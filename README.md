@@ -18,7 +18,7 @@ Projeto para prova do processo seletivo da Newoway
 
 ## Authors
 
-* **Eduardo Finotti** - [PurpleBooth](https://github.com/eduardofinotti)
+* **Eduardo Finotti** - [GitHub](https://github.com/eduardofinotti)
 
 ## License
 
