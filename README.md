@@ -1,6 +1,5 @@
-# Teste Neoway
-
-Projeto para prova do processo seletivo da Newoway
+# Resume - interface-tests-java-bdd-base
+Projeto base para testes de interface com Java e BDD
 
 ## Getting Started
 
